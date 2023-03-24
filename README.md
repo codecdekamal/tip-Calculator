@@ -1,2 +1,2 @@
 # tip-Calculator
-This is project given FrontEnd Mentor
+This is project is given FrontEnd Mentor
