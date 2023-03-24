@@ -1,0 +1,25 @@
+.outerBox{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.6rem;
+    margin: 0.3rem;
+    justify-content: space-evenly;
+
+}
+
+
+.buttonColor{
+    background-color: #00474b;
+    border:0;
+    height: 1.6rem;
+  }
+.fifteen{
+    background-color:#26c2ad;
+    border:0;
+
+}
+.custom{
+    background-color: #f1f9fb;
+    border:0;
+
+}
